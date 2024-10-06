@@ -22,7 +22,7 @@ const RecentProjects = () => {
           >
             <PinContainer
               title="/ui.aceternity.com"
-              href="https://twitter.com/mannupaaji"
+              href="https://github.com/sms-Sifat-115"
             >
               <HoverBorderGradient>
                 <div className="relative flex items-center justify-center sm:w-[570px] w-[80vw] overflow-hidden sw:h[40vh] h-[30vh] mb-10">
@@ -31,7 +31,7 @@ const RecentProjects = () => {
                     style={{ backgroundColor: "#13162D" }}
                   >
                     <Image
-                      src="/bg.png"
+                      src="bg.png"
                       width={100}
                       height={100}
                       alt="bg-img"

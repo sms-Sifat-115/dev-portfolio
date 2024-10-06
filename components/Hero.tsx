@@ -57,10 +57,14 @@ const Hero = () => {
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
             Hi! I&apos;m S M{" "}
-            <span className="bg-gradient-to-r from-indigo-600 via-purple-500 to-fuchsia-300 text-transparent bg-clip-text font-semibold">
+            <span className="bg-gradient-to-r from-fuchsia-300 via-purple-500 to-violet-700 text-transparent bg-clip-text font-semibold">
               Sanbim
             </span>{" "}
-            Sifat, a Next.js Developer based in Bangladesh.
+            Sifat, a Next.js Developer based in{" "}
+            <span className="bg-gradient-to-r from-green-600 via-red-500 to-green-600 text-transparent bg-clip-text">
+              Bangladesh
+            </span>{" "}
+            .
           </p>
 
           <a href="#about">
